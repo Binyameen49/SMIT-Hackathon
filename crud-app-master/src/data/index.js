@@ -1,0 +1,60 @@
+const employeesData = [
+  {
+    id: 1,
+    firstName: 'Demo1',
+    lastName: 'Demo1',
+    email: 'Demo1@example.com',
+    salary: '95000',
+    date: '2019-04-11',
+  },
+  {
+    id: 2,
+    firstName: 'Demo2',
+    lastName: 'Demo2',
+    email: 'Demo2@example.com',
+    salary: '80000',
+    date: '2019-04-17',
+  },
+  {
+    id: 3,
+    firstName: 'Demo3',
+    lastName: 'Demo3',
+    email: 'Demo3@example.com',
+    salary: '79000',
+    date: '2019-05-01',
+  },
+  {
+    id: 4,
+    firstName: 'Demo4',
+    lastName: 'Demo4',
+    email: 'Demo4@example.com',
+    salary: '56000',
+    date: '2019-05-03',
+  },
+  {
+    id: 5,
+    firstName: 'Demo5',
+    lastName: 'Demo5',
+    email: 'Demo5@example.com',
+    salary: '65000',
+    date: '2019-06-13',
+  },
+  {
+    id: 6,
+    firstName: 'Demo6',
+    lastName: 'Demo6',
+    email: 'Demo6@example.com',
+    salary: '120000',
+    date: '2019-07-30',
+  },
+  {
+    id: 7,
+    firstName: 'Demo7',
+    lastName: 'Demo7',
+    email: 'Demo7@example.com',
+    salary: '90000',
+    date: '2019-08-15',
+  },
+];
+
+export { employeesData };
